@@ -2,7 +2,7 @@
 
 Para ter acesso ao repertório no Drive acesse: [drive.google.com](https://drive.google.com/drive/folders/1smwZa7qAUykEbpON3Ec4JQgrqf3gDSvi).
 
-## Bem vindo ao **seu site** de experimentos de **robótica**!
+## Bem vindo ao **site** de experimentos de **robótica**!
 
 Este site representará uma vasta biblioteca de diversos experimentos relacionados a Arduino UNO, Micro:bit e Raspbarry pi. :rocket:
 
