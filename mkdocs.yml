@@ -28,9 +28,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Arduino UNO: arduino.md
-  - Micro:bit : microbit.md
-  - Raspbarry Pi: raspbarry.md
+  - Arduino: arduino.md
 
 markdown_extensions:
 - pymdownx.emoji
