@@ -10,21 +10,21 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
-        name: Alternar para o modo claro
+        name: Modo claro
 
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
       toggle:
         icon: material/brightness-7
-        name: Alternar para o modo escuro
+        name: Modo escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple
       toggle:
         icon: material/brightness-4
-        name: Alternar para o modo automático
+        name: Modo automático
 
 nav:
   - Home: index.md
