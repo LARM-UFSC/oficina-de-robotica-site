@@ -2,6 +2,7 @@ site_name: Oficina de Robótica
 
 theme:
   name: material
+  language: pt-BR
 
   features:
     - content.code.copy
