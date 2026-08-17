@@ -6,7 +6,7 @@ O nível intermediário tem como objetivo ampliar os conhecimentos adquiridos no
 
 ## Entrada Analógica
 
-## Modulação por Largura de Pulso
+## Modulação por Largura de Pulso (PWM)
 
 ## Controle de Servomotores
 
