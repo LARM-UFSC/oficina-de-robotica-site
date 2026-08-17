@@ -28,9 +28,9 @@ theme:
 
 nav:
   - Sobre: index.md
-  - Nível básico: arduino.md
-  - Nível intermediário: arduino.md
-  - Nível avançado: arduino.md
+  - Nível básico: basic.md
+  - Nível intermediário: intermediate.md
+  - Nível avançado: advanced.md
 
 markdown_extensions:
 - pymdownx.emoji
