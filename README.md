@@ -1,2 +1,2 @@
-# oficina-de-robotica-site
-Página Oficial do Projeto Oficina de Robótica
+# Projeto Oficina de Robótica
+Página oficial do projeto Oficina de Robótica contendo materiais e tutoriais sobre eletrônica, programação com Arduino e robótica.

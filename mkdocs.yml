@@ -28,8 +28,10 @@ theme:
         name: Modo automático
 
 nav:
-  - Home: index.md
-  - Arduino: arduino.md
+  - Sobre: index.md
+  - Nível básico: basic.md
+  - Nível intermediário: intermediate.md
+  - Nível avançado: advanced.md
 
 markdown_extensions:
 - pymdownx.emoji
