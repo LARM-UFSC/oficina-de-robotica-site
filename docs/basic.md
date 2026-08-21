@@ -9,10 +9,9 @@ O nível básico tem como objetivo introduzir os estudantes aos fundamentos de e
 - [Semáforo](paginas_arduino/semaforo.md)
 - 
 
-## Entrada Digital
+## Entrada Digital e Monitor Serial
 - [Sensor de luminosidade](paginas_arduino/luminosidade_sensor.md)
 - [Potenciômetro regulando LEDs](paginas_arduino/led_potenciometro.md)
 
 
-## Monitor Serial
 
