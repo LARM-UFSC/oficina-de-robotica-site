@@ -42,7 +42,7 @@ O botão, também conhecido como push button, é um componente utilizado para co
 
 
 <br>
-> Interior do botão:
+> Esquema do botão:
 
 ![Push button interior](../imagens/imagens_arduino/led_potenciômetro/pushButton_interior.jpg)
 

@@ -11,3 +11,4 @@ O nível intermediário tem como objetivo ampliar os conhecimentos adquiridos no
 ## Controle de Servomotores
 
 ## Controle de Motores de Corrente Contínua (DC)
+- [Controlando velocidade do motor DC](paginas_arduino/velocidade_motorDC.md)

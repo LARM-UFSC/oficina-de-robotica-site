@@ -34,6 +34,9 @@ Os resistores são componentes eletrônicos que têm a função de limitar a pas
 
 ![Resistores](../imagens/imagens_arduino/semaforo/resistores520.png)
 
+<br>
+#### Faixas de resistência
+
 Ao longo desse e dos futuros experimentos veremos que utilizaremos vários resistores em praticamente, se não todos, experimentos. Sendo assim, é fundamental saber olhar para um resistor e identificar a sua resistência, os resistores vem com algumas listras coloridas que servem para realizar essa identificação. Observe a tabela abaixo: 
 
 
@@ -43,6 +46,16 @@ Ao longo desse e dos futuros experimentos veremos que utilizaremos vários resis
 ![tabela Resistores](../imagens/imagens_arduino/semaforo/tavelaResistores440.avif)
 
 Como demonstrado pela imagem acima, para resistores de 4 faixas, colocando a faixa dourada do lado direito temos respectivamente: primeira unidade, segunda unidade, quantidade de "zeros" (potência de 10) e tolerância (percentual de erro). Na primeira imagem de resistores deste documento por exemplo, temos 3 resistores, o primeiro vemos primeira unidade = 4, segunda unidade = 7 e seguidos de 3 zeros com tolerância de 5%, ou seja, um resistor de 47000Ω com 5% de erro para cima e para baixo.
+
+<br>
+#### Simbolo esquemático dos transistores
+
+Na representação de projetos de circuit, há duas simbologias para representar transistores que aparecem de forma mais frequente, e é a que utilizaremos quando formos analisar circuitos. Observe elas na imagem abaixo:
+
+<br>
+> Símbolo esquematico:
+
+![simbolo_resistor](../imagens/imagens_arduino/semaforo/representação-de-resistores.jpg)
 
 ### Jumpers
 
