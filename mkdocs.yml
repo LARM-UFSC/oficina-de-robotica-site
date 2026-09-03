@@ -35,5 +35,8 @@ nav:
 
 markdown_extensions:
 - pymdownx.emoji
-- pymdownx.highlight
+- pymdownx.highlight 
 - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
